@@ -35,7 +35,7 @@ export const portfolioData = {
   // ----------------------------------------------------------
   about: {
     summary:
-      "I am a graduate in Data Science & AI from Thuy Loi University, currently working at Samsung R&D Center Vietnam. I have strong programming skills and solid problem-solving abilities gained through competitive programming contests and daily problem solving. I am passionate about teaching and mentoring, with experience in supporting classmates and junior students in coding practice. I am eager to contribute to MindX as a full-time teacher, bringing both technical knowledge and enthusiasm for guiding younger learners.",
+      "I am a graduate in Data Science & AI from Thuy Loi University, currently working at Samsung R&D Center Vietnam. I have strong programming skills and solid problem-solving abilities gained through competitive programming contests and daily problem solving. I am passionate about teaching and mentoring, with experience in supporting classmates and junior students in coding practice.",
     highlights: [
       "Software Engineer – MediaCore Team at Samsung R&D Center Vietnam",
       "Data Science & AI – Thuy Loi University (GPA: 3.21/4.0)",
